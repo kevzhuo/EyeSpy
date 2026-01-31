@@ -1,0 +1,13 @@
+[package]
+name = "eyespy"
+version = "0.2.0"
+edition = "2021"
+description = "A visual file system watcher - spy on your directories"
+
+[dependencies]
+notify = "6.1"
+colored = "2.1"
+clap = { version = "4.4", features = ["derive"] }
+chrono = "0.4"
+glob-match = "0.2"
+ctrlc = "3.4"
