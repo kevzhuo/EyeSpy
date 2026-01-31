@@ -179,6 +179,3 @@ eyespy --debug /tmp
 | `🎯` | Spy pattern matched |
 | `🚨` | Suspicious activity |
 
-## License
-
-MIT
